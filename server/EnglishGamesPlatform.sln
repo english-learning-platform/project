@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishGamesPlatform.Backend", "EnglishGamesPlatform.Backend\EnglishGamesPlatform.Backend.csproj", "{4652486B-ABE8-4A37-B1C2-04E60E4EAFAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension-Project", "Extension-Project\Extension-Project.csproj", "{6C6ADB96-2B2C-4C4A-9A48-E64ED935ABD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4652486B-ABE8-4A37-B1C2-04E60E4EAFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4652486B-ABE8-4A37-B1C2-04E60E4EAFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4652486B-ABE8-4A37-B1C2-04E60E4EAFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C6ADB96-2B2C-4C4A-9A48-E64ED935ABD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6ADB96-2B2C-4C4A-9A48-E64ED935ABD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6ADB96-2B2C-4C4A-9A48-E64ED935ABD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6ADB96-2B2C-4C4A-9A48-E64ED935ABD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
