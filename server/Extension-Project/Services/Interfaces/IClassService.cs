@@ -4,6 +4,6 @@ namespace Extension_Project.Services.Interfaces
 {
     public interface IClassService
     {
-        Task<IEnumerable<Class>> GetClassesByTeacherIdAsync(int teacherId);
+        Task<IEnumerable<SchoolClass>> GetClassesByTeacherIdAsync(int teacherId);
     }
 }
